@@ -1,0 +1,15 @@
+/Users/vladislav/Documents/GitHub/Other/algos/lab3/code/bin/Debug/net7.0/code
+/Users/vladislav/Documents/GitHub/Other/algos/lab3/code/bin/Debug/net7.0/code.deps.json
+/Users/vladislav/Documents/GitHub/Other/algos/lab3/code/bin/Debug/net7.0/code.runtimeconfig.json
+/Users/vladislav/Documents/GitHub/Other/algos/lab3/code/bin/Debug/net7.0/code.dll
+/Users/vladislav/Documents/GitHub/Other/algos/lab3/code/bin/Debug/net7.0/code.pdb
+/Users/vladislav/Documents/GitHub/Other/algos/lab3/code/obj/Debug/net7.0/code.csproj.AssemblyReference.cache
+/Users/vladislav/Documents/GitHub/Other/algos/lab3/code/obj/Debug/net7.0/code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislav/Documents/GitHub/Other/algos/lab3/code/obj/Debug/net7.0/code.AssemblyInfoInputs.cache
+/Users/vladislav/Documents/GitHub/Other/algos/lab3/code/obj/Debug/net7.0/code.AssemblyInfo.cs
+/Users/vladislav/Documents/GitHub/Other/algos/lab3/code/obj/Debug/net7.0/code.csproj.CoreCompileInputs.cache
+/Users/vladislav/Documents/GitHub/Other/algos/lab3/code/obj/Debug/net7.0/code.dll
+/Users/vladislav/Documents/GitHub/Other/algos/lab3/code/obj/Debug/net7.0/refint/code.dll
+/Users/vladislav/Documents/GitHub/Other/algos/lab3/code/obj/Debug/net7.0/code.pdb
+/Users/vladislav/Documents/GitHub/Other/algos/lab3/code/obj/Debug/net7.0/code.genruntimeconfig.cache
+/Users/vladislav/Documents/GitHub/Other/algos/lab3/code/obj/Debug/net7.0/ref/code.dll

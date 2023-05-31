@@ -2,4 +2,5 @@
 
 ## Select project and run in terminal
 
+### `cd code`
 ### `dotnet run`
